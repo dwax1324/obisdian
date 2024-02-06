@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
+                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
+                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
+                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Computing Systems/강의 소스.md",
+                "file": "책정리/The Elements of Computing Systems/강의 소스.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Elements of Computing Systems/강의 소스.md",
+                "file": "책정리/The Elements of Computing Systems/강의 소스.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "회고/영화 Detachment를 보고....md"
               }
             }
           }
@@ -269,12 +269,15 @@
   },
   "active": "68b8766d554acc86",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "프로젝트/개인블로그/Untitled.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-06 at 20.34.06.png",
     "imgs/Screenshot 2024-02-06 at 20.31.24.png",
     "백엔드/소프트 스킬.md",
     "백엔드/개발.md",
     "백엔드/취업.md",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
     "백엔드/tdd.md",
     "회고/영화 Detachment를 보고....md",
     "imgs/Screenshot 2024-02-05 at 04.40.15.png",
@@ -288,30 +291,27 @@
     "imgs/Screenshot 2024-02-05 at 00.22.00.png",
     "imgs/Screenshot 2024-02-05 at 00.17.03.png",
     "imgs/Screenshot 2024-02-05 at 00.16.54.png",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/명령어.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/명령어.md",
     "강의 정리/데이터베이스 - 쉬운 코드",
     "프로젝트/개인블로그/DNS와 DDNS.md",
-    "Books/객체지향의 사실과 오해/객체지향의 사실과 오해 독후감.md",
-    "프로젝트/개인블로그/Untitled.md",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+    "책정리/객체지향의 사실과 오해/객체지향의 사실과 오해 독후감.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
     "프로젝트/개인블로그",
     "프로젝트",
     "PS/문제를 보고 드는 생각을 정리하는 연습.md",
     "PS/그리디 디피 수학 문제 많이 풀기.md",
     "PS/ps를 분석해보자.canvas",
     "PS/코드포스/922.md",
-    "Books/HeadFirst DesginPattern/강의.md",
-    "Books/HeadFirst DesginPattern",
-    "Books/The Elements of Computing Systems/강의 소스.md",
+    "책정리/HeadFirst DesginPattern/강의.md",
+    "책정리/HeadFirst DesginPattern",
+    "책정리/The Elements of Computing Systems/강의 소스.md",
     "Books/HeadFirst Design Pattern.md",
-    "Books/The Elements of Computing Systems",
+    "책정리/The Elements of Computing Systems",
     "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/오퍼랜드.md",
-    "imgs/Screenshot 2024-02-01 at 14.39.21.png",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/연산 코드.md",
-    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/CPU.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/오퍼랜드.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/연산 코드.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/CPU.md",
     "imgs",
     "코드포스/922",
     "PS/코드포스",
