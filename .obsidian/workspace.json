@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "293c2ebaa16cdfd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa0ad75ade703a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f1e6e8cefb8a029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98875d2e9b96d72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6f0f02005b82249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06260d6703b765e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5a9dc4a32e468d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68b8766d554acc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d71deb5a4f3b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "525fd3b85f3c9a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Elements of Computing Systems/강의 소스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86422a0397b622df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Elements of Computing Systems/강의 소스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce9dd9507332264d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f782e4361665f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의 정리/데이터베이스 - 쉬운 코드/목차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eef6e447188b530f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d886a2a5da705429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc0bfe5b391f62ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e50cd6c9f5a4cb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ps",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a099e5528685436",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24eb0af47304189b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0098fb2a3a7460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf474dcbb1a47e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc65e5bdf1a58ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95982dfce30619b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc0dadd5b7bfce01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68b8766d554acc86",
+  "lastOpenFiles": [
+    "imgs/Screenshot 2024-02-06 at 20.34.06.png",
+    "imgs/Screenshot 2024-02-06 at 20.31.24.png",
+    "백엔드/소프트 스킬.md",
+    "백엔드/개발.md",
+    "백엔드/취업.md",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
+    "백엔드/tdd.md",
+    "회고/영화 Detachment를 보고....md",
+    "imgs/Screenshot 2024-02-05 at 04.40.15.png",
+    "imgs/Screenshot 2024-02-05 at 03.30.34.png",
+    "강의 정리/데이터베이스 - 쉬운 코드/Untitled.md",
+    "회고",
+    "강의 정리/데이터베이스 - 쉬운 코드/목차.md",
+    "imgs/Screenshot 2024-02-05 at 00.32.35.png",
+    "imgs/Screenshot 2024-02-05 at 00.31.36.png",
+    "imgs/Screenshot 2024-02-05 at 00.29.59.png",
+    "imgs/Screenshot 2024-02-05 at 00.22.00.png",
+    "imgs/Screenshot 2024-02-05 at 00.17.03.png",
+    "imgs/Screenshot 2024-02-05 at 00.16.54.png",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/명령어.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
+    "강의 정리/데이터베이스 - 쉬운 코드",
+    "프로젝트/개인블로그/DNS와 DDNS.md",
+    "Books/객체지향의 사실과 오해/객체지향의 사실과 오해 독후감.md",
+    "프로젝트/개인블로그/Untitled.md",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+    "프로젝트/개인블로그",
+    "프로젝트",
+    "PS/문제를 보고 드는 생각을 정리하는 연습.md",
+    "PS/그리디 디피 수학 문제 많이 풀기.md",
+    "PS/ps를 분석해보자.canvas",
+    "PS/코드포스/922.md",
+    "Books/HeadFirst DesginPattern/강의.md",
+    "Books/HeadFirst DesginPattern",
+    "Books/The Elements of Computing Systems/강의 소스.md",
+    "Books/HeadFirst Design Pattern.md",
+    "Books/The Elements of Computing Systems",
+    "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/오퍼랜드.md",
+    "imgs/Screenshot 2024-02-01 at 14.39.21.png",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/연산 코드.md",
+    "Books/혼자서 공부하는 컴퓨터구조와 운영체제/CPU.md",
+    "imgs",
+    "코드포스/922",
+    "PS/코드포스",
+    "강의 정리",
+    "Untitled.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
