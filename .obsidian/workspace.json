@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 정리/Untitled.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -207,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 정리/Untitled.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 정리/Untitled.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 정리/Untitled.md"
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
               }
             }
           }
@@ -270,6 +269,7 @@
   },
   "active": "68b8766d554acc86",
   "lastOpenFiles": [
+    "강의 정리/Untitled.md",
     "imgs/Screenshot 2024-02-07 at 20.55.38.png",
     "imgs/Screenshot 2024-02-07 at 20.49.28.png",
     "imgs/Screenshot 2024-02-07 at 20.38.23.png",
@@ -280,9 +280,7 @@
     "imgs/Screenshot 2024-02-07 at 20.16.36.png",
     "imgs/Screenshot 2024-02-07 at 19.47.49.png",
     "imgs/Screenshot 2024-02-07 at 19.44.21.png",
-    "imgs/Screenshot 2024-02-07 at 19.42.37.png",
     "프로젝트/개인블로그/Untitled.md",
-    "강의 정리/Untitled.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "PS/코드포스/923 (div3).md",
