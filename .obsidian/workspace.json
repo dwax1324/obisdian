@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f1e6e8cefb8a029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98875d2e9b96d72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+                "file": "백엔드/알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,30 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5a9dc4a32e468d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68b8766d554acc86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "백엔드/알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "백엔드/알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "백엔드/알고리즘.md"
               }
             }
           }
@@ -267,11 +231,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b8766d554acc86",
+  "active": "98875d2e9b96d72e",
   "lastOpenFiles": [
+    "백엔드/개발.md",
+    "백엔드/컴퓨터 과학.md",
+    "백엔드/면접.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
+    "백엔드/컴퓨터구조.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
+    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
+    "백엔드/알고리즘.md",
+    "백엔드/자료구조.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/Untitled.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "강의 정리/Untitled.md",
     "imgs/Screenshot 2024-02-07 at 20.55.38.png",
     "imgs/Screenshot 2024-02-07 at 20.49.28.png",
@@ -293,24 +267,15 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "백엔드/소프트 스킬.md",
-    "백엔드/개발.md",
     "백엔드/취업.md",
-    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
     "백엔드/tdd.md",
     "강의 정리/데이터베이스 - 쉬운 코드/Untitled.md",
     "회고",
     "강의 정리/데이터베이스 - 쉬운 코드/목차.md",
-    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/명령어.md",
     "강의 정리/데이터베이스 - 쉬운 코드",
-    "책정리/객체지향의 사실과 오해/객체지향의 사실과 오해 독후감.md",
-    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터.md",
     "프로젝트/개인블로그",
     "프로젝트",
-    "PS/문제를 보고 드는 생각을 정리하는 연습.md",
-    "PS/그리디 디피 수학 문제 많이 풀기.md",
     "책정리/HeadFirst DesginPattern",
-    "책정리/The Elements of Computing Systems/강의 소스.md",
-    "Books/HeadFirst Design Pattern.md",
     "책정리/The Elements of Computing Systems",
     "imgs",
     "코드포스/922",
