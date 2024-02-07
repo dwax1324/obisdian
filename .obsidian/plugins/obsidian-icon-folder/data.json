@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPersonRunning",
       "RiImageLine",
       "RiBookOpenLine",
       "Fab42Group"
@@ -26,5 +27,6 @@
     "iconIdentifier": ":"
   },
   "imgs": "RiImageLine",
-  "책정리": "RiBookOpenLine"
+  "책정리": "RiBookOpenLine",
+  "프로젝트": "FasPersonRunning"
 }
