@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/Untitled.md",
+                "file": "강의 정리/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/Untitled.md",
+                "file": "강의 정리/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/Untitled.md",
+                "file": "강의 정리/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/Untitled.md"
+                "file": "강의 정리/Untitled.md"
               }
             }
           }
@@ -269,6 +269,12 @@
   },
   "active": "68b8766d554acc86",
   "lastOpenFiles": [
+    "imgs/Screenshot 2024-02-07 at 19.11.40.png",
+    "imgs/Screenshot 2024-02-07 at 19.09.27.png",
+    "imgs/Screenshot 2024-02-07 at 19.08.00.png",
+    "imgs/Screenshot 2024-02-07 at 19.02.41.png",
+    "프로젝트/개인블로그/Untitled.md",
+    "강의 정리/Untitled.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "PS/코드포스/923 (div3).md",
@@ -276,7 +282,6 @@
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
     "책정리/HeadFirst DesginPattern/강의.md",
-    "프로젝트/개인블로그/Untitled.md",
     "회고/영화 Detachment를 보고....md",
     "Untitled.md",
     "Untitled 2.md",
@@ -296,9 +301,6 @@
     "imgs/Screenshot 2024-02-05 at 00.32.35.png",
     "imgs/Screenshot 2024-02-05 at 00.31.36.png",
     "imgs/Screenshot 2024-02-05 at 00.29.59.png",
-    "imgs/Screenshot 2024-02-05 at 00.22.00.png",
-    "imgs/Screenshot 2024-02-05 at 00.17.03.png",
-    "imgs/Screenshot 2024-02-05 at 00.16.54.png",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/명령어.md",
     "강의 정리/데이터베이스 - 쉬운 코드",
     "책정리/객체지향의 사실과 오해/객체지향의 사실과 오해 독후감.md",
@@ -311,7 +313,6 @@
     "책정리/The Elements of Computing Systems/강의 소스.md",
     "Books/HeadFirst Design Pattern.md",
     "책정리/The Elements of Computing Systems",
-    "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
     "imgs",
     "코드포스/922",
     "PS/코드포스",
