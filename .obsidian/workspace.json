@@ -11,12 +11,8 @@
             "id": "98875d2e9b96d72e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -182,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -245,6 +237,7 @@
   },
   "active": "98875d2e9b96d72e",
   "lastOpenFiles": [
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-08 at 01.30.19.png",
     "imgs/Screenshot 2024-02-08 at 00.00.54.png",
     "백엔드/개발.md",
@@ -262,7 +255,6 @@
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/데이터.md",
     "백엔드/자료구조.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/Untitled.md",
     "강의 정리/Untitled.md",
@@ -274,7 +266,6 @@
     "imgs/Screenshot 2024-02-07 at 20.24.00.png",
     "imgs/Screenshot 2024-02-07 at 20.20.49.png",
     "imgs/Screenshot 2024-02-07 at 20.16.36.png",
-    "imgs/Screenshot 2024-02-07 at 19.47.49.png",
     "PS/코드포스/923 (div3).md",
     "PS/코드포스/922.md",
     "PS/ps를 분석해보자.canvas",
