@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/코드포스/923 (div3).md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PS/코드포스/923 (div3).md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PS/코드포스/923 (div3).md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PS/코드포스/923 (div3).md"
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
               }
             }
           }
@@ -269,8 +269,8 @@
   },
   "active": "68b8766d554acc86",
   "lastOpenFiles": [
-    "PS/코드포스/922.md",
     "PS/코드포스/923 (div3).md",
+    "PS/코드포스/922.md",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
     "책정리/HeadFirst DesginPattern/강의.md",
