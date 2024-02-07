@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -237,6 +236,8 @@
   },
   "active": "98875d2e9b96d72e",
   "lastOpenFiles": [
+    "블로그/블로그를 시작하는 이유.md",
+    "블로그",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-08 at 01.30.19.png",
     "imgs/Screenshot 2024-02-08 at 00.00.54.png",
@@ -283,7 +284,6 @@
     "imgs",
     "코드포스/922",
     "PS/코드포스",
-    "강의 정리",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
