@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2139a2a3c3d91610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/블로그를 오픈하기 까지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f511879ca4c590a0",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "블로그/블로그를 오픈하기 까지.md"
               }
             }
           }
@@ -242,12 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98875d2e9b96d72e",
+  "active": "2139a2a3c3d91610",
   "lastOpenFiles": [
+    "imgs/Screenshot 2024-02-09 at 01.39.39.png",
+    "imgs/Screenshot 2024-02-09 at 01.39.03.png",
+    "프로젝트/개인블로그/Untitled 1.md",
+    "블로그/블로그를 오픈하기 까지.md",
+    "블로그",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "백엔드/클린 코드.md",
     "블로그/블로그를 시작하는 이유.md",
     "블로그",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-08 at 01.30.19.png",
     "imgs/Screenshot 2024-02-08 at 00.00.54.png",
     "백엔드/개발.md",
@@ -275,14 +293,10 @@
     "imgs/Screenshot 2024-02-07 at 20.25.57.png",
     "imgs/Screenshot 2024-02-07 at 20.24.00.png",
     "imgs/Screenshot 2024-02-07 at 20.20.49.png",
-    "imgs/Screenshot 2024-02-07 at 20.16.36.png",
     "PS/코드포스/923 (div3).md",
     "PS/코드포스/922.md",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
-    "책정리/HeadFirst DesginPattern/강의.md",
-    "회고/영화 Detachment를 보고....md",
-    "Untitled.md",
     "회고",
     "강의 정리/데이터베이스 - 쉬운 코드",
     "프로젝트/개인블로그",
@@ -291,7 +305,6 @@
     "책정리/The Elements of Computing Systems",
     "imgs",
     "코드포스/922",
-    "PS/코드포스",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
