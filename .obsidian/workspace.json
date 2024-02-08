@@ -157,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,6 +237,7 @@
   },
   "active": "98875d2e9b96d72e",
   "lastOpenFiles": [
+    "백엔드/클린 코드.md",
     "블로그/블로그를 시작하는 이유.md",
     "블로그",
     "프로젝트/개인블로그/웹서버 구축하기.md",
@@ -274,7 +276,6 @@
     "책정리/HeadFirst DesginPattern/강의.md",
     "회고/영화 Detachment를 보고....md",
     "Untitled.md",
-    "Untitled 2.md",
     "회고",
     "강의 정리/데이터베이스 - 쉬운 코드",
     "프로젝트/개인블로그",
