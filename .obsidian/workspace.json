@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/블로그를 오픈하기 까지.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/블로그를 오픈하기 까지.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/블로그를 오픈하기 까지.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/블로그를 오픈하기 까지.md"
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
               }
             }
           }
@@ -257,9 +257,9 @@
   },
   "active": "2139a2a3c3d91610",
   "lastOpenFiles": [
+    "블로그/블로그를 오픈하기 까지.md",
     "imgs/Screenshot 2024-02-09 at 02.46.01.png",
     "프로젝트/개인블로그/웹서버 구축하기.md",
-    "블로그/블로그를 오픈하기 까지.md",
     "imgs/Screenshot 2024-02-09 at 02.12.40.png",
     "imgs/Screenshot 2024-02-09 at 01.39.39.png",
     "imgs/Screenshot 2024-02-09 at 01.39.03.png",
@@ -292,7 +292,6 @@
     "imgs/Screenshot 2024-02-07 at 20.49.28.png",
     "imgs/Screenshot 2024-02-07 at 20.38.23.png",
     "imgs/Screenshot 2024-02-07 at 20.35.15.png",
-    "imgs/Screenshot 2024-02-07 at 20.25.57.png",
     "PS/코드포스/923 (div3).md",
     "PS/코드포스/922.md",
     "PS/ps를 분석해보자.canvas",
