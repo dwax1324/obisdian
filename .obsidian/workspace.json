@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "다른 사람의 코드를 훔치자.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "다른 사람의 코드를 훔치자.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "다른 사람의 코드를 훔치자.md",
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "다른 사람의 코드를 훔치자.md"
+                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
               }
             }
           }
@@ -255,10 +255,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc0bfe5b391f62ee",
+  "active": "250e620086fd2eab",
   "lastOpenFiles": [
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "다른 사람의 코드를 훔치자.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/Untitled 1.md",
     "블로그/블로그를 오픈하기 까지.md",
