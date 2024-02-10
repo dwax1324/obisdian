@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "블로그/블로그를 오픈하기 까지.md"
               }
             }
           }
@@ -257,9 +257,12 @@
   },
   "active": "250e620086fd2eab",
   "lastOpenFiles": [
+    "책정리/객체지향의 사실과 오해/UML.md",
+    "책정리/The Elements of Computing Systems/강의 소스.md",
+    "책정리/HeadFirst DesginPattern/강의.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-10 at 05.43.12.png",
     "다른 사람의 코드를 훔치자.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "프로젝트/개인블로그/DNS와 DDNS.md",
     "프로젝트/개인블로그/Untitled 1.md",
     "블로그/블로그를 오픈하기 까지.md",
@@ -292,9 +295,6 @@
     "imgs/Screenshot 2024-02-07 at 20.55.38.png",
     "imgs/Screenshot 2024-02-07 at 20.49.28.png",
     "imgs/Screenshot 2024-02-07 at 20.38.23.png",
-    "imgs/Screenshot 2024-02-07 at 20.35.15.png",
-    "PS/코드포스/923 (div3).md",
-    "PS/코드포스/922.md",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
     "회고",
