@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md"
               }
             }
           }
@@ -205,22 +205,22 @@
   },
   "active": "39be58a94ad3dd48",
   "lastOpenFiles": [
-    "회고/영화 Detachment를 보고....md",
+    "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
     "블로그/우테코/자동차 경주🚗.md",
+    "블로그/블로그를 오픈하기 까지.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
+    "회고/영화 Detachment를 보고....md",
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
     "imgs/Screenshot 2024-02-25 at 03.55.38.png",
     "imgs/Screenshot 2024-02-25 at 03.55.20.png",
     "02.23 TIL.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "책정리/켄트백 tdd.md",
     "코드 커버리지를 믿으면 안되는 이유.md",
     "코드 커버리지.md",
     "다른 사람의 코드를 훔치자.md",
     "분기 커버리지 지표(branch coverage).md",
     "책정리/유닛 테스팅",
-    "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
     "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
-    "블로그/블로그를 오픈하기 까지.md",
     "백엔드/순열, 조합, 백트래킹.md",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
