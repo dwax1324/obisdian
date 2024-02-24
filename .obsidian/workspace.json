@@ -55,28 +55,14 @@
             "id": "b25a4d1ed479b462",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "코드 커버리지를 믿으면 안되는 이유.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39be58a94ad3dd48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블로그/우테코/자동차 경주🚗.md",
-                "mode": "source",
-                "source": false
+                "file": "imgs/Screenshot 2024-02-25 at 07.19.54.png"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/우테코/자동차 경주🚗.md",
+                "file": "imgs/Screenshot 2024-02-25 at 07.19.54.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/우테코/자동차 경주🚗.md",
+                "file": "imgs/Screenshot 2024-02-25 at 07.19.54.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/우테코/자동차 경주🚗.md"
+                "file": "imgs/Screenshot 2024-02-25 at 07.19.54.png"
               }
             }
           }
@@ -203,11 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39be58a94ad3dd48",
+  "active": "b25a4d1ed479b462",
   "lastOpenFiles": [
+    "코드 커버리지를 믿으면 안되는 이유.md",
+    "imgs/Screenshot 2024-02-25 at 07.19.54.png",
+    "블로그/우테코/자동차 경주🚗.md",
     "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
     "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
-    "블로그/우테코/자동차 경주🚗.md",
     "블로그/블로그를 오픈하기 까지.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "회고/영화 Detachment를 보고....md",
@@ -216,7 +204,6 @@
     "imgs/Screenshot 2024-02-25 at 03.55.20.png",
     "02.23 TIL.md",
     "책정리/켄트백 tdd.md",
-    "코드 커버리지를 믿으면 안되는 이유.md",
     "코드 커버리지.md",
     "다른 사람의 코드를 훔치자.md",
     "분기 커버리지 지표(branch coverage).md",
@@ -242,9 +229,7 @@
     "백엔드/클린 코드.md",
     "블로그/블로그를 시작하는 이유.md",
     "블로그",
-    "imgs/Screenshot 2024-02-08 at 01.30.19.png",
     "백엔드/개발.md",
-    "백엔드/컴퓨터 과학.md",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
     "회고",
