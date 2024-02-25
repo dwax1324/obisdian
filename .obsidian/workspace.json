@@ -57,7 +57,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.18.04.png"
+                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.18.04.png",
+                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.18.04.png",
+                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.18.04.png"
+                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png"
               }
             }
           }
@@ -192,6 +192,7 @@
   "active": "f84ac2b38d4567a3",
   "lastOpenFiles": [
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
+    "imgs/Screenshot 2024-02-25 at 14.19.39.png",
     "imgs/Screenshot 2024-02-25 at 14.18.04.png",
     "imgs/Screenshot 2024-02-25 at 07.19.54.png",
     "코드 커버리지를 믿으면 안되는 이유.md",
@@ -225,7 +226,6 @@
     "imgs/Screenshot 2024-02-09 at 02.46.01.png",
     "imgs/Screenshot 2024-02-09 at 02.12.40.png",
     "imgs/Screenshot 2024-02-09 at 01.39.39.png",
-    "imgs/Screenshot 2024-02-09 at 01.39.03.png",
     "블로그",
     "백엔드/클린 코드.md",
     "블로그/블로그를 시작하는 이유.md",
