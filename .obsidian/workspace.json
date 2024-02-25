@@ -60,9 +60,21 @@
                 "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png"
               }
             }
+          },
+          {
+            "id": "da48c0bb57837648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imgs/전문가가 되는법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png",
+                "file": "imgs/전문가가 되는법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png",
+                "file": "imgs/전문가가 되는법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imgs/Screenshot 2024-02-25 at 14.19.39.png"
+                "file": "imgs/전문가가 되는법.md"
               }
             }
           }
@@ -189,10 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f84ac2b38d4567a3",
+  "active": "da48c0bb57837648",
   "lastOpenFiles": [
-    "imgs/Screenshot 2024-02-25 at 03.55.53.png",
     "imgs/Screenshot 2024-02-25 at 14.19.39.png",
+    "imgs/전문가가 되는법.md",
+    "imgs/Screenshot 2024-02-25 at 03.55.53.png",
     "imgs/Screenshot 2024-02-25 at 14.18.04.png",
     "imgs/Screenshot 2024-02-25 at 07.19.54.png",
     "코드 커버리지를 믿으면 안되는 이유.md",
@@ -225,12 +238,10 @@
     "프로젝트/개인블로그/Untitled 1.md",
     "imgs/Screenshot 2024-02-09 at 02.46.01.png",
     "imgs/Screenshot 2024-02-09 at 02.12.40.png",
-    "imgs/Screenshot 2024-02-09 at 01.39.39.png",
     "블로그",
     "백엔드/클린 코드.md",
     "블로그/블로그를 시작하는 이유.md",
     "블로그",
-    "백엔드/개발.md",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
     "회고",
