@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md"
               }
             }
           }
@@ -203,11 +203,12 @@
   },
   "active": "da48c0bb57837648",
   "lastOpenFiles": [
+    "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
+    "블로그/우테코/자동차 경주🚗.md",
+    "프로젝트/개인블로그/웹서버 구축하기.md",
     "다른 사람의 코드를 훔치자.md",
     "회고/영화 Detachment를 보고....md",
     "책정리/켄트백 tdd.md",
-    "블로그/우테코/자동차 경주🚗.md",
-    "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
     "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
     "02.23 TIL.md",
     "코드 커버리지.md",
@@ -219,7 +220,6 @@
     "imgs/Screenshot 2024-02-25 at 14.18.04.png",
     "imgs/Screenshot 2024-02-25 at 07.19.54.png",
     "블로그/블로그를 오픈하기 까지.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-25 at 03.55.38.png",
     "imgs/Screenshot 2024-02-25 at 03.55.20.png",
     "책정리/유닛 테스팅",
