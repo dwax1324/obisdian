@@ -11,7 +11,7 @@
             "id": "f5f98fa19e1fbeb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5f98fa19e1fbeb7",
+  "active": "2a099e5528685436",
   "lastOpenFiles": [
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "분기 커버리지 지표(branch coverage).md",
