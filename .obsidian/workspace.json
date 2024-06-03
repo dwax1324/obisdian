@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6001158282c6cbde",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "16f957474656e944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "레벨2 글쓰기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "레벨2 글쓰기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "레벨2 글쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "레벨2 글쓰기.md"
               }
             }
           }
@@ -146,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5f98fa19e1fbeb7",
+  "active": "16f957474656e944",
   "lastOpenFiles": [
+    "레벨2 글쓰기.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "분기 커버리지 지표(branch coverage).md",
     "다른 사람의 코드를 훔치자.md",
