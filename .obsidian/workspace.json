@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인프라 강의.md",
+                "file": "레벨2 글쓰기.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인프라 강의.md",
+                "file": "레벨2 글쓰기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인프라 강의.md",
+                "file": "레벨2 글쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인프라 강의.md"
+                "file": "레벨2 글쓰기.md"
               }
             }
           }
@@ -183,8 +184,8 @@
   },
   "active": "4dae882b2909e414",
   "lastOpenFiles": [
-    "레벨2 글쓰기.md",
     "인프라 강의.md",
+    "레벨2 글쓰기.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "분기 커버리지 지표(branch coverage).md",
     "다른 사람의 코드를 훔치자.md",
