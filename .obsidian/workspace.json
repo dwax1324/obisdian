@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dae882b2909e414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인프라 강의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "레벨2 글쓰기.md",
+                "file": "인프라 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "레벨2 글쓰기.md",
+                "file": "인프라 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "레벨2 글쓰기.md"
+                "file": "인프라 강의.md"
               }
             }
           }
@@ -169,9 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16f957474656e944",
+  "active": "4dae882b2909e414",
   "lastOpenFiles": [
     "레벨2 글쓰기.md",
+    "인프라 강의.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
     "분기 커버리지 지표(branch coverage).md",
     "다른 사람의 코드를 훔치자.md",
@@ -209,7 +222,6 @@
     "imgs/Screenshot 2024-02-09 at 02.12.40.png",
     "블로그",
     "백엔드/클린 코드.md",
-    "블로그/블로그를 시작하는 이유.md",
     "블로그",
     "PS/ps를 분석해보자.canvas",
     "Untitled.canvas",
