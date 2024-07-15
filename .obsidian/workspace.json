@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "928697908b22bc61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "922d61ff8c9d9775",
+  "active": "928697908b22bc61",
   "lastOpenFiles": [
     "Curiosity-Driven-Development.md",
     "오늘 했던 생각.md",
