@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "팀블로그/포켓로그 도우미.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "팀블로그/포켓로그 도우미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md",
+                "file": "팀블로그/포켓로그 도우미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/개인블로그/웹서버 구축하기.md"
+                "file": "팀블로그/포켓로그 도우미.md"
               }
             }
           }
@@ -185,6 +186,9 @@
   },
   "active": "928697908b22bc61",
   "lastOpenFiles": [
+    "프로젝트/개인블로그/웹서버 구축하기.md",
+    "팀블로그/포켓로그 도우미.md",
+    "팀블로그",
     "2.md",
     "02.23 TIL.md",
     "Curiosity-Driven-Development.md",
@@ -198,7 +202,6 @@
     "코드 커버리지를 믿으면 안되는 이유.md",
     "코드 커버리지.md",
     "인프라 강의.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "imgs/Screenshot 2024-02-25 at 14.19.39.png",
     "블로그/우테코/우아한테크코스 1주차 회고 - 블로그용.md",
     "블로그/우테코/우아한테크코스 1주차 회고 -초고.md",
@@ -217,7 +220,6 @@
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
     "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
-    "책정리/The Elements of Computing Systems/강의 소스.md",
     "imgs/Screenshot 2024-02-18 at 00.25.09.png",
     "블로그/우테코",
     "imgs/Screenshot 2024-02-10 at 05.43.12.png",
@@ -232,7 +234,6 @@
     "프로젝트/개인블로그",
     "프로젝트",
     "책정리/HeadFirst DesginPattern",
-    "책정리/The Elements of Computing Systems",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
