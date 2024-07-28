@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36c18336c05652ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "928697908b22bc61",
+  "active": "36c18336c05652ac",
   "lastOpenFiles": [
     "행복론에 이은 사랑론.md",
     "Curiosity-Driven-Development.md",
