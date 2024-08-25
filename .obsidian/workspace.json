@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a60c431d27bb4392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그 꾸미기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9장 옵타마이저와 힌트.md",
+                "file": "블로그 꾸미기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9장 옵타마이저와 힌트.md",
+                "file": "블로그 꾸미기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9장 옵타마이저와 힌트.md"
+                "file": "블로그 꾸미기.md"
               }
             }
           }
@@ -205,9 +217,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0d6b061dc1a683",
+  "active": "a60c431d27bb4392",
   "lastOpenFiles": [
     "9장 옵타마이저와 힌트.md",
+    "블로그 꾸미기.md",
     "행복론에 이은 사랑론.md",
     "Curiosity-Driven-Development.md",
     "오늘 했던 생각.md",
@@ -240,7 +253,6 @@
     "책정리/유닛 테스팅",
     "백엔드/순열, 조합, 백트래킹.md",
     "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/메모리.md",
-    "책정리/혼자서 공부하는 컴퓨터구조와 운영체제/컴퓨터의 핵심 부품.md",
     "imgs/Screenshot 2024-02-18 at 00.25.09.png",
     "블로그/우테코",
     "imgs/Screenshot 2024-02-10 at 05.43.12.png",
