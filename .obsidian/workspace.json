@@ -11,8 +11,12 @@
             "id": "ee93ea917496b70e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 1.md"
+              }
             }
           }
         ]
@@ -140,11 +148,12 @@
   },
   "active": "ee93ea917496b70e",
   "lastOpenFiles": [
+    "9장 옵타마이저와 힌트.md",
+    "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
     "블로그/우테코/자동차 경주🚗.md",
     "블로그/우테코/우아한테크코스 5&6주차 회고.md",
     "블로그/우테코/우아한테크코스 4주차 회고.md",
-    "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/그리디 디피 수학 문제 많이 풀기.md",
     "PS/문제를 보고 드는 생각을 정리하는 연습.md",
     "PS/ps를 분석해보자.canvas",
