@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "회고/영화 Detachment를 보고....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "회고/영화 Detachment를 보고....md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "ee93ea917496b70e",
   "lastOpenFiles": [
+    "팀블로그/포켓로그 도우미.md",
+    "회고/영화 Detachment를 보고....md",
+    "코드 커버리지를 믿으면 안되는 이유.md",
+    "행복론에 이은 사랑론.md",
+    "오늘 했던 생각.md",
+    "인프라 강의.md",
+    "코드 커버리지.md",
+    "분기 커버리지 지표(branch coverage).md",
+    "다른 사람의 코드를 훔치자.md",
+    "나는 왜 흔들리는가.md",
+    "Untitled 1.md",
     "9장 옵타마이저와 힌트.md",
     "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
@@ -162,20 +173,9 @@
     "블로그/블로그를 오픈하기 까지.md",
     "책정리/켄트백 tdd.md",
     "책정리/HeadFirst DesginPattern/강의.md",
-    "팀블로그/포켓로그 도우미.md",
     "프로젝트/개인블로그/웹서버 구축하기.md",
-    "회고/영화 Detachment를 보고....md",
     "2.md",
-    "Untitled 1.md",
-    "행복론에 이은 사랑론.md",
-    "코드 커버리지를 믿으면 안되는 이유.md",
-    "코드 커버리지.md",
-    "인프라 강의.md",
-    "오늘 했던 생각.md",
     "블로그 꾸미기.md",
-    "분기 커버리지 지표(branch coverage).md",
-    "다른 사람의 코드를 훔치자.md",
-    "나는 왜 흔들리는가.md",
     "팀블로그",
     "imgs/Screenshot 2024-02-25 at 14.19.39.png",
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
