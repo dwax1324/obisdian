@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "545ee1e647b5186c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회고/어쨋든 회고는 해야지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50c1e23a1afbc9b9",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회고/Untitled.md",
+                "file": "회고/어쨋든 회고는 해야지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회고/Untitled.md",
+                "file": "회고/어쨋든 회고는 해야지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회고/Untitled.md"
+                "file": "회고/어쨋든 회고는 해야지.md"
               }
             }
           }
@@ -172,12 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c357aef70a8148d",
+  "active": "545ee1e647b5186c",
   "lastOpenFiles": [
+    "회고/영화 Detachment를 보고....md",
+    "회고/어쨋든 회고는 해야지.md",
     "회고/복사.md",
     "회고/Untitled.md",
     "imgs/Screenshot 2024-08-27 at 20.58.07.png",
-    "회고/영화 Detachment를 보고....md",
     "팀블로그/포켓로그 도우미.md",
     "코드 커버리지를 믿으면 안되는 이유.md",
     "행복론에 이은 사랑론.md",
@@ -202,7 +215,6 @@
     "블로그/블로그를 오픈하기 까지.md",
     "책정리/켄트백 tdd.md",
     "책정리/HeadFirst DesginPattern/강의.md",
-    "프로젝트/개인블로그/웹서버 구축하기.md",
     "팀블로그",
     "imgs/Screenshot 2024-02-25 at 14.19.39.png",
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
