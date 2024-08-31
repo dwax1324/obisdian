@@ -30,30 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50c1e23a1afbc9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회고/복사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c357aef70a8148d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회고/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -186,10 +162,10 @@
   },
   "active": "545ee1e647b5186c",
   "lastOpenFiles": [
-    "회고/영화 Detachment를 보고....md",
-    "회고/어쨋든 회고는 해야지.md",
     "회고/복사.md",
     "회고/Untitled.md",
+    "회고/어쨋든 회고는 해야지.md",
+    "회고/영화 Detachment를 보고....md",
     "imgs/Screenshot 2024-08-27 at 20.58.07.png",
     "팀블로그/포켓로그 도우미.md",
     "코드 커버리지를 믿으면 안되는 이유.md",
