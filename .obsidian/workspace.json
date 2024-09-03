@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/우테코/우아한테크코스 1주차 회고.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/우테코/우아한테크코스 1주차 회고.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/우테코/우아한테크코스 1주차 회고.md",
+                "file": "블로그/블로그를 오픈하기 까지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/우테코/우아한테크코스 1주차 회고.md"
+                "file": "블로그/블로그를 오픈하기 까지.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc0bfe5b391f62ee",
+  "active": "401768d443e4a5f0",
   "lastOpenFiles": [
+    "블로그/우테코/우아한테크코스 1주차 회고.md",
     "블로그/운영체제",
     "블로그/네트워크",
     "블로그/데이터베이스",
@@ -158,7 +159,6 @@
     "블로그/우테코/우아한테크코스 5&6주차 회고.md",
     "블로그/우테코/우아한테크코스 4주차 회고.md",
     "블로그/우테코/우아한테크코스 2주차 회고.md",
-    "블로그/우테코/우아한테크코스 1주차 회고.md",
     "회고/어쨋든 회고는 해야지.md",
     "회고/영화 Detachment를 보고....md",
     "회고/복사.md",
@@ -195,7 +195,6 @@
     "블로그",
     "블로그",
     "Untitled.canvas",
-    "회고",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
