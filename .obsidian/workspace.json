@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/TMI/블로그를 다시 시작한다.md",
+                "file": "블로그/자료구조/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/TMI/블로그를 다시 시작한다.md",
+                "file": "블로그/자료구조/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/TMI/블로그를 다시 시작한다.md",
+                "file": "블로그/자료구조/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/TMI/블로그를 다시 시작한다.md"
+                "file": "블로그/자료구조/Untitled.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "401768d443e4a5f0",
   "lastOpenFiles": [
-    "블로그/블로그를 오픈하기 까지.md",
     "블로그/TMI/블로그를 다시 시작한다.md",
+    "블로그/자료구조/Untitled.md",
+    "블로그/블로그를 오픈하기 까지.md",
     "블로그/TMI",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
     "블로그/운영체제",
@@ -183,7 +184,6 @@
     "PS/문제를 보고 드는 생각을 정리하는 연습.md",
     "PS/ps를 분석해보자.canvas",
     "PS/정리된 생각을 코딩으로 \"정확히\" 옮기는 연습.md",
-    "책정리/켄트백 tdd.md",
     "팀블로그",
     "imgs/Screenshot 2024-02-25 at 14.19.39.png",
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
