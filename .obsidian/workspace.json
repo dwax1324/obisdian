@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그/자료구조/Untitled.md",
+                "file": "블로그/자료구조/Arrays, LinkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/자료구조/Untitled.md",
+                "file": "블로그/자료구조/Arrays, LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/자료구조/Untitled.md",
+                "file": "블로그/자료구조/Arrays, LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/자료구조/Untitled.md"
+                "file": "블로그/자료구조/Arrays, LinkedList.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "401768d443e4a5f0",
   "lastOpenFiles": [
     "블로그/TMI/블로그를 다시 시작한다.md",
-    "블로그/자료구조/Untitled.md",
+    "블로그/자료구조/Arrays, LinkedList.md",
     "블로그/블로그를 오픈하기 까지.md",
     "블로그/TMI",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
