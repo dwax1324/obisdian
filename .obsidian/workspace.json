@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5bd0a12a064856f",
+        "id": "db3431f555063226",
         "type": "tabs",
         "children": [
           {
-            "id": "401768d443e4a5f0",
+            "id": "b45ca0227d2edc2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401768d443e4a5f0",
+  "active": "b45ca0227d2edc2b",
   "lastOpenFiles": [
-    "블로그/TMI/블로그를 다시 시작한다.md",
     "블로그/자료구조/Array, Linked List , Stack, Queue.md",
+    "블로그/TMI/블로그를 다시 시작한다.md",
     "블로그/블로그를 오픈하기 까지.md",
     "블로그/TMI",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
