@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a7c6fc7cec70ac9",
+  "active": "dc0bfe5b391f62ee",
   "lastOpenFiles": [
     "블로그/블로그를 오픈하기 까지.md",
     "블로그/꽤 중요할지도?.md",
