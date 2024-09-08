@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dfc8232badaebd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/자료구조/파티션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
+                "file": "블로그/자료구조/파티션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
+                "file": "블로그/자료구조/파티션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md"
+                "file": "블로그/자료구조/파티션.md"
               }
             }
           }
@@ -160,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc0bfe5b391f62ee",
+  "active": "3dfc8232badaebd1",
   "lastOpenFiles": [
+    "블로그/자료구조/Array, Linked List , Stack, Queue.md",
+    "블로그/자료구조/파티션.md",
     "블로그/블로그를 오픈하기 까지.md",
     "블로그/꽤 중요할지도?.md",
     "블로그/회고/Untitled.md",
     "블로그/회고",
-    "블로그/자료구조/Array, Linked List , Stack, Queue.md",
     "블로그/TMI/블로그를 다시 시작한다.md",
     "블로그/TMI",
     "블로그/우테코/우아한테크코스 1주차 회고.md",
