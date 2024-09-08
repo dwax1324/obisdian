@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/꽤 중요할지도?.md",
+                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/꽤 중요할지도?.md",
+                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/꽤 중요할지도?.md"
+                "file": "블로그/자료구조/Array, Linked List , Stack, Queue.md"
               }
             }
           }
