@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/자료구조/TCP, UDP.md",
+                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/자료구조/TCP, UDP.md",
+                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/자료구조/TCP, UDP.md"
+                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md"
               }
             }
           }
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "166b04f5dfd100de",
+  "active": "4ea5dc3a38bd0f4c",
   "lastOpenFiles": [
+    "블로그/자료구조/TCP, UDP.md",
     "imgs/Screenshot 2024-09-12 at 12.16.46.png",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
-    "블로그/자료구조/TCP, UDP.md",
     "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
     "블로그/자료구조/Untitled.md",
     "imgs/Screenshot 2024-09-11 at 13.46.00.png",
@@ -225,7 +225,6 @@
     "imgs/Screenshot 2024-02-25 at 03.55.53.png",
     "imgs/Screenshot 2024-02-25 at 14.18.04.png",
     "imgs/Screenshot 2024-02-25 at 07.19.54.png",
-    "imgs/Screenshot 2024-02-25 at 03.55.38.png",
     "책정리/유닛 테스팅",
     "블로그/우테코",
     "Untitled.canvas",
