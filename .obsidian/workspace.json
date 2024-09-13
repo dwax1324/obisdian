@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc6e6f5e7b9a050c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그/자료구조/오랜만에 감성글.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
+                "file": "블로그/자료구조/오랜만에 감성글.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
+                "file": "블로그/자료구조/오랜만에 감성글.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그/자료구조/정신차리고 ㅇㅇ하기.md"
+                "file": "블로그/자료구조/오랜만에 감성글.md"
               }
             }
           }
@@ -179,12 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ea5dc3a38bd0f4c",
+  "active": "fc6e6f5e7b9a050c",
   "lastOpenFiles": [
+    "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
+    "블로그/자료구조/오랜만에 감성글.md",
     "블로그/자료구조/TCP, UDP.md",
     "imgs/Screenshot 2024-09-12 at 12.16.46.png",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
-    "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
     "블로그/자료구조/Untitled.md",
     "imgs/Screenshot 2024-09-11 at 13.46.00.png",
     "imgs/Screenshot 2024-09-11 at 12.18.42.png",
