@@ -11,8 +11,12 @@
             "id": "3780c9e837e5f116",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "인터럽트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "인터럽트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "인터럽트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "인터럽트.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "3780c9e837e5f116",
   "lastOpenFiles": [
+    "인터럽트.md",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
     "블로그/자료구조/TCP, UDP.md",
     "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
@@ -178,7 +187,6 @@
     "행복론에 이은 사랑론.md",
     "오늘 했던 생각.md",
     "인프라 강의.md",
-    "코드 커버리지.md",
     "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
