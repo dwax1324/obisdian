@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d84a0a88b27cf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함께잘하기스터디.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인터럽트.md",
+                "file": "함께잘하기스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인터럽트.md",
+                "file": "함께잘하기스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인터럽트.md"
+                "file": "함께잘하기스터디.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3780c9e837e5f116",
+  "active": "6d84a0a88b27cf88",
   "lastOpenFiles": [
+    "함께잘하기스터디.md",
     "인터럽트.md",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
     "블로그/자료구조/TCP, UDP.md",
@@ -186,7 +200,6 @@
     "코드 커버리지를 믿으면 안되는 이유.md",
     "행복론에 이은 사랑론.md",
     "오늘 했던 생각.md",
-    "인프라 강의.md",
     "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
