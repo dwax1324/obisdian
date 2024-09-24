@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70f98cdcbfaad2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함께잘하기스터디.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함께잘하기스터디.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함께잘하기스터디.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -160,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d84a0a88b27cf88",
+  "active": "70f98cdcbfaad2ee",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "함께잘하기스터디.md",
     "인터럽트.md",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
@@ -199,7 +212,6 @@
     "팀블로그/포켓로그 도우미.md",
     "코드 커버리지를 믿으면 안되는 이유.md",
     "행복론에 이은 사랑론.md",
-    "오늘 했던 생각.md",
     "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
