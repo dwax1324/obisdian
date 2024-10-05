@@ -16,3 +16,8 @@
 
 charizard_gigantamax 634 644
 kingler_gigantamax 575 585
+
+
+
+# 폼 키
+현재 아이디에 폼 변환이 있을 시 
