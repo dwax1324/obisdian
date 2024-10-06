@@ -296,3 +296,14 @@ ninetales의 경우 레벨이 -1이라 궁금해서 찾아봤다
 
 -1이면 기억 버섯으로 다시 배울 수 있는 기술들이고
 0이면 진화할 때 배울 수 있는 기술들이다
+
+
+
+# 진화정보로 포켓몬을 찾을 때 못찾는 것들
+```
+dudunsparce, burmy, wormadam, cherrim, meowstic, meowstic, aegislash, aegislash, silvally, oinkologne, oinkologne, maushold, maushold, palafin, dudunsparce, poltchageist_artisan
+                    , sinistcha_masterpiece, poltchageist_artisan, sinistcha_masterpiece
+
+```
+
+
