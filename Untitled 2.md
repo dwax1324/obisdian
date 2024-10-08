@@ -313,4 +313,3 @@ dudunsparce, burmy, wormadam, cherrim, meowstic, meowstic, aegislash, aegislash,
 
 ---
 당일이벤트
-
