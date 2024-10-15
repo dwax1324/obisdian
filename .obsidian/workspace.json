@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5fbcb07528030d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "브라운 면담.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "브라운 면담.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "브라운 면담.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "브라운 면담.md"
               }
             }
           }
@@ -184,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b80464f0dbd5f0b",
+  "active": "d5fbcb07528030d0",
   "lastOpenFiles": [
+    "브라운 면담.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "imgs/Screenshot 2024-10-06 at 02.27.36.png",
@@ -227,7 +240,6 @@
     "회고/Untitled.md",
     "imgs/Screenshot 2024-08-27 at 20.58.07.png",
     "팀블로그/포켓로그 도우미.md",
-    "코드 커버리지를 믿으면 안되는 이유.md",
     "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
