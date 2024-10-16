@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인터럽트.md",
+                "file": "할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인터럽트.md",
+                "file": "할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인터럽트.md"
+                "file": "할일.md"
               }
             }
           }
@@ -232,8 +232,9 @@
       }
     ]
   },
-  "active": "3780c9e837e5f116",
+  "active": "cdbfd2a633338b94",
   "lastOpenFiles": [
+    "인터럽트.md",
     "할일.md",
     "브라운 면담.md",
     "Untitled 3.md",
@@ -243,7 +244,6 @@
     "imgs/Screenshot 2024-10-06 at 01.02.23.png",
     "imgs/Screenshot 2024-10-06 at 01.02.06.png",
     "함께잘하기스터디.md",
-    "인터럽트.md",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
     "블로그/자료구조/TCP, UDP.md",
     "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
