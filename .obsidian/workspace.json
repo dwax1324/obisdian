@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "할일.md",
+                "file": "인터럽트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "할일.md",
+                "file": "인터럽트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할일.md"
+                "file": "인터럽트.md"
               }
             }
           }
@@ -233,7 +232,7 @@
       }
     ]
   },
-  "active": "cdbfd2a633338b94",
+  "active": "3780c9e837e5f116",
   "lastOpenFiles": [
     "할일.md",
     "브라운 면담.md",
