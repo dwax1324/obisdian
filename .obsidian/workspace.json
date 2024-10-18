@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3780c9e837e5f116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인터럽트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d84a0a88b27cf88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "함께잘하기스터디.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인터럽트.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인터럽트.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인터럽트.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -232,10 +219,13 @@
       }
     ]
   },
-  "active": "3780c9e837e5f116",
+  "active": "6d84a0a88b27cf88",
   "lastOpenFiles": [
-    "할일.md",
+    "imgs/IMG_4559.jpg",
+    "Untitled.md",
+    "함께잘하기스터디.md",
     "인터럽트.md",
+    "할일.md",
     "브라운 면담.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -243,7 +233,6 @@
     "imgs/Screenshot 2024-10-06 at 02.25.56.png",
     "imgs/Screenshot 2024-10-06 at 01.02.23.png",
     "imgs/Screenshot 2024-10-06 at 01.02.06.png",
-    "함께잘하기스터디.md",
     "블로그/자료구조/우아한테크코스 6기 기획팀 인수인계.md",
     "블로그/자료구조/TCP, UDP.md",
     "블로그/자료구조/정신차리고 ㅇㅇ하기.md",
@@ -273,10 +262,7 @@
     "블로그/우테코/우아한테크코스 2주차 회고.md",
     "회고/어쨋든 회고는 해야지.md",
     "회고/영화 Detachment를 보고....md",
-    "회고/복사.md",
-    "회고/Untitled.md",
     "imgs/Screenshot 2024-08-27 at 20.58.07.png",
-    "imgs/Screenshot 2024-01-31 at 01.44.41.png",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
     "책정리/유닛 테스팅",
