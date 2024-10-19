@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -219,7 +220,7 @@
       }
     ]
   },
-  "active": "6d84a0a88b27cf88",
+  "active": "dc0bfe5b391f62ee",
   "lastOpenFiles": [
     "할일.md",
     "imgs/Pasted image 20241018135700.png",
