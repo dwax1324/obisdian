@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "13f22f17348474de",
+        "id": "98513b5b0c0d16ed",
         "type": "tabs",
         "children": [
           {
-            "id": "6d84a0a88b27cf88",
+            "id": "cdb0387c8e98d6d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f0dd36fdd2377c73",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "24eb0af47304189b",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -215,16 +193,17 @@
       }
     ]
   },
-  "active": "f0dd36fdd2377c73",
+  "active": "cdb0387c8e98d6d6",
   "lastOpenFiles": [
-    "Untitled 4.md",
     "Untitled.md",
+    "imgs/KakaoTalk_Image_2024-10-25-10-14-25.jpeg",
+    "imgs/IMG_4559.jpg",
+    "Untitled 4.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "브라운 면담.md",
     "할일.md",
     "imgs/Pasted image 20241018135700.png",
-    "imgs/IMG_4559.jpg",
     "함께잘하기스터디.md",
     "인터럽트.md",
     "imgs/Screenshot 2024-10-06 at 02.27.36.png",
@@ -242,7 +221,6 @@
     "블로그/자료구조/Array, Linked List , Stack, Queue.md",
     "블로그/꽤 중요할지도?.md",
     "블로그/자료구조/파티션.md",
-    "imgs/Screenshot 2024-09-09 at 00.57.18.png",
     "블로그/블로그를 오픈하기 까지.md",
     "블로그/회고/Untitled.md",
     "블로그/회고",
@@ -259,7 +237,6 @@
     "블로그/우테코/우아한테크코스 4주차 회고.md",
     "블로그/우테코/우아한테크코스 2주차 회고.md",
     "회고/어쨋든 회고는 해야지.md",
-    "회고/영화 Detachment를 보고....md",
     "PS/ps를 분석해보자.canvas",
     "팀블로그",
     "책정리/유닛 테스팅",
