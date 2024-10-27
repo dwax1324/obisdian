@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98513b5b0c0d16ed",
+        "id": "d87b509c0297ac9f",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb0387c8e98d6d6",
+            "id": "4dd0639955876137",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/Screenshot 2024-01-31 at 02.06.14.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-01-31 at 02.06.14"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +193,9 @@
       }
     ]
   },
-  "active": "cdb0387c8e98d6d6",
+  "active": "4dd0639955876137",
   "lastOpenFiles": [
+    "imgs/Screenshot 2024-01-31 at 02.06.14.png",
     "할일.md",
     "Untitled.md",
     "imgs/KakaoTalk_Image_2024-10-25-10-14-25.jpeg",
@@ -219,7 +218,6 @@
     "imgs/Screenshot 2024-09-12 at 12.16.46.png",
     "블로그/자료구조/Untitled.md",
     "imgs/Screenshot 2024-09-11 at 13.46.00.png",
-    "imgs/Screenshot 2024-09-11 at 12.18.42.png",
     "블로그/자료구조/Array, Linked List , Stack, Queue.md",
     "블로그/꽤 중요할지도?.md",
     "블로그/자료구조/파티션.md",
