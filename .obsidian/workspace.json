@@ -11,10 +11,12 @@
             "id": "cdb0387c8e98d6d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "imgs/Screenshot 2024-01-31 at 02.06.14.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2024-01-31 at 02.06.14"
             }
           }
         ]
@@ -193,8 +195,9 @@
       }
     ]
   },
-  "active": "cdbfd2a633338b94",
+  "active": "cdb0387c8e98d6d6",
   "lastOpenFiles": [
+    "할일.md",
     "Untitled.md",
     "imgs/KakaoTalk_Image_2024-10-25-10-14-25.jpeg",
     "imgs/IMG_4559.jpg",
@@ -202,7 +205,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "브라운 면담.md",
-    "할일.md",
     "imgs/Pasted image 20241018135700.png",
     "함께잘하기스터디.md",
     "인터럽트.md",
